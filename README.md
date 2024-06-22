@@ -1,4 +1,4 @@
-```markdown
+
 # BuzzAround
 
 A simple and plain website featuring a bee that moves randomly around the page. Built with Tailwind CSS, React.js, and GSAP's utils.random.
