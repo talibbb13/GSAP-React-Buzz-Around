@@ -42,7 +42,7 @@ function App() {
     <>
       <div
         id="main"
-        className="h-screen w-full bg-[#7ED4FD] flex justify-center items-center flex-col gap-10"
+        className="h-screen w-full bg-[#7ED4FD] flex justify-center items-center flex-col gap-10 cursor-help"
       >
         {/* <div
           id="container-1"
@@ -66,7 +66,7 @@ function App() {
 
         <div
           onClick={updatePos}
-          className="box h-20 w-20 rounded-sm fixed top-10 left-10"
+          className="box h-20 w-20 rounded-sm fixed top-10 left-10 cursor-grab"
         >
           <img
             className='h-full w-full object-cover'
